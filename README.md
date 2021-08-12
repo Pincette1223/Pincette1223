@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Pincette.
 #### I am a student and I want to be a programmer.
-I am a student and I want to be a programmer.
 <img src='/img/Pincette.png' alt='website' height='100'>
 
 I am a middle schooler and I am interested in Front-End.
