@@ -8,7 +8,7 @@ Skills: HTML / CSS / JS / Python
 
 - 🌱 I’m currently learning Java, and C 
 - 📫 How to reach me: vlstpt812@gmail.com 
-- 💬 Ask about me: [HERE](https://github.com/Pincette1223/pincette1223/issues/1)
+- 💬 Ask anything about me: [HERE](https://github.com/Pincette1223/pincette1223/issues/1)
 
 
 [<img src='https://img.icons8.com/nolan/452/github.png' alt='github' height='40'>](https://github.com/pincette1223)  [<img src='https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png' alt='YouTube' height='40'>](https://youtube.com/channel/UCy1rs9healcnL7izuNS8IkA)  [<img src='/img/Pincette.png' alt='website' height='40'>](pincette-portfolio.netlify.app)  
