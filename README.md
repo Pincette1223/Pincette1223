@@ -6,7 +6,7 @@ I am a middle schooler and I am interested in Front-End.
 
 Skills: HTML / CSS / JS / Python
 
-- 🌱 I’m currently learning Java, C, and Arduino 
+- 🌱 I’m currently learning Java, C, Arduino, Kotlin, Minecraft Plugin, and Making Android App
 - 📫 How to reach me: vlstpt812@gmail.com 
 - 💬 Ask anything about me: [HERE](https://github.com/Pincette1223/pincette1223/issues/1)
 
