@@ -1,4 +1,6 @@
-<h1> Hi, I'm Pincette1223 (EGL) <img src="https://avatars.githubusercontent.com/u/68833587?v=4#profile" height="180"></h1>
+<h1> Hello world! I'm Pincette1223(EGL)! <img src="https://avatars.githubusercontent.com/u/68833587?v=4#profile" height="180"></h1>
+
+<h2>I am a middle school student in Korea who dreams of becoming a programmer.</h2>
 
 <p>
   <h2>My Social Media</h2>
