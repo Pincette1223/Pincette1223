@@ -6,7 +6,7 @@
     <h3>
     Youtube
       <a href="https://www.youtube.com/channel/UCy1rs9healcnL7izuNS8IkA">
-        핀셋 <img src="https://www.youtube.com/s/desktop/5aa0c1f3/img/favicon.ico" height="30px" />
+        핀셋 <img style="border-radius: 50%" src="https://www.youtube.com/s/desktop/5aa0c1f3/img/favicon.ico" height="30px" />
       </a>
     </h3>
   </em>
@@ -35,7 +35,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C Language](https://img.shields.io/badge/-C Language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C Language](https://img.shields.io/badge/-C-Language-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Nextjs-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
