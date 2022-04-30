@@ -82,7 +82,7 @@
     </tr>
   </tbody>
 </table>
-<b><em><a href="https://github.com/Pincette1223?tab=repositories">More Projects</a></em></b>
+<b><em><a href="https://github.com/Pincette1223?tab=repositories">More Projects...</a></em></b>
 
 ---
 
