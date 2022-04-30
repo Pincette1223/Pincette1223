@@ -1,4 +1,4 @@
-<h1> Hello world! I'm Pincette1223(EGL)! <img src="image/profile.png" height="180"></h1>
+<h1> Hello world! I'm Pincette1223(EGL)! <img src="profile.png" height="180"></h1>
 
 <h2>I am a middle school student in Korea who dreams of becoming a programmer.</h2>
 
