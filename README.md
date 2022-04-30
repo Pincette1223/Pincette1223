@@ -1,3 +1,7 @@
+<style type='text/css'>
+  [class*="profile"] { border-radius: 50%; }
+</style>
+
 <h1> Hi, I'm Pincette1223 (EGL) <img src="https://avatars.githubusercontent.com/u/68833587?v=4" height="180"></h1>
 
 <p>
@@ -6,7 +10,7 @@
     <h3>
     Youtube
       <a href="https://www.youtube.com/channel/UCy1rs9healcnL7izuNS8IkA">
-        핀셋 <img style="border-radius: 50%" src="https://www.youtube.com/s/desktop/5aa0c1f3/img/favicon.ico" height="30px" />
+        핀셋 <img class="profile" src="https://www.youtube.com/s/desktop/5aa0c1f3/img/favicon.ico" height="30px" />
       </a>
     </h3>
   </em>
