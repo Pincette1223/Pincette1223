@@ -55,6 +55,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=VisualStudio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
 
 <h2>My projects</h2>
 <table>
