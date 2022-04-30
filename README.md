@@ -1,6 +1,8 @@
-<style type='text/css'>
-  [class*="profile"] { border-radius: 50%; }
-</style>
+(setq markdown-xhtml-header-content
+  "<style type='text/css'>
+.profile { border-radius: 50%; }
+a:hover { text-decoration: underline; }
+</style>")
 
 <h1> Hi, I'm Pincette1223 (EGL) <img src="https://avatars.githubusercontent.com/u/68833587?v=4" height="180"></h1>
 
