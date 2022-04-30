@@ -1,9 +1,5 @@
 <h1> Hi, I'm Pincette1223 (EGL) <img src="https://avatars.githubusercontent.com/u/68833587?v=4#profile" height="180"></h1>
 
-img[src$="#profile"] {
-  border-radius: 50%;
-}
-
 <p>
   <h2>My Social Media</h2>
   <em>
